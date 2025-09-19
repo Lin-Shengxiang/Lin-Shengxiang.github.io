@@ -1,0 +1,96 @@
+primary_name: "Xinting Liao (廖馨婷)"
+secondary_name: "Xenia Liao"
+navbar_name: "Xinting Liao's Home Page"
+
+positions:
+  - '<span class="no-break"><img src="assets/images/badges/zju_logo.png" alt="Zhejiang University" class="inline-badge"/></span> Ph.D, Zhejiang University (2025)'
+
+email: "xintingliao@zju.edu.cn"
+gscholar: FoMerO8AAAAJ
+sscholar: Xinting-Liao/2215523472
+github: XeniaLLL
+#twitter: RongshengWang
+# wechat_qrcode: assets/images/etc/wechat.jpg
+# wechat_prompt: >-
+#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+#zhihu: wang-rong-sheng-74
+resume: assets/cv/CV_xinting_liao.pdf
+# linkedin: your-linked-in-id
+orcid: 0000-0002-8257-2381
+
+short_bio: >-
+  I am Xinting (Xenia) Liao. I study at Zhejiang University and work under the supervision of Prof. <a href="https://scholar.google.com/citations?user=MY23M60AAAAJ">Xiaolin Zheng</a> and <a href="https://scholar.google.com/citations?user=qZTMyzwAAAAJ">Chaochao Chen</a>. Now I participate in the joint Ph.D. program in National University of Singapore with the supervision of Prof. <a href="https://scholar.google.com.sg/citations?user=Z9DWCBEAAAAJ">Tat-Seng Chua</a> and collaboration with Dr. <a href="https://scholar.google.com.sg/citations?user=Ma5DtmoAAAAJ">Wenjie Wang</a>. My research interests are computer vision, LLM, federated learning, trustworthy machine learning.  <br> <text style="color:#8B0000; font-style:italic;">I am currently seeking a Postdoctoral opportunity or research scientist position.</text>
+
+#  <br> I publish a lot of open source projects on <a href="https://github.com/WangRongsheng">🔗Github</a> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/wangrongsheng?style=flat-square">.
+#  I shared some of the datasets and model weights used by the project at <a href="https://huggingface.co/wangrongsheng">🔗HuggingFace</a>. I likewise like to post some small-parameter LM at <a href="https://ollama.com/wangrongsheng">🔗Ollama</a> to help people use it locally.
+
+show_portrait: true
+portrait_url: assets/images/photos/profile_lxt.jpeg
+portrait_caption: >-
+  我是浙江大学的廖馨婷，欢迎访问我的主页~
+
+education:
+  - name: Zhejiang University
+    logo: assets/images/badges/zju_logo.png
+    position: Ph.D. in Computer Science
+    date: Sep. 2020 - Jun. 2025
+  - name: Sichuan University
+    logo: assets/images/badges/scu_logo.png
+    position: B.S. in Software Engineering
+    date: Sep. 2016 - Jun. 2020
+
+experience:
+  - name: NExT++ Lab in National University of Singapore
+    logo: assets/images/badges/nus_logo.png
+    position: Visiting student
+    date: Jun. 2024 - Present
+  - name: Text Intelligence Lab in Westlake University
+    logo: assets/images/badges/westlake_logo.png
+    position: Visiting student
+    date: Oct. 2019 - May. 2020
+  - name: Medical Image Lab in Sichuan University
+    logo: assets/images/badges/scu_logo.png
+    position: Research intern
+    date: Mar. 2018 -	Jun. 2019
+
+
+#awards:
+#- name: Outstanding Award of JingDong Health - Global AI Innovation Competition
+#  date: 2024
+#- name: First Prize of Baidu PaddlePaddle AGI Hackathon
+#  date: 2024
+#- name: Third Prize of Digital Medical Technology and Application Innovation Competition
+#  date: 2023
+#- name: Third Prize of Baichuan Intelligence and Amazon Cloud AGI Hackathon
+#  date: 2023
+#- name: Silver of Kaggle RSNA Screening Mammography Breast Cancer Detection
+#  date: 2023
+#- name: Outstanding Award of IEEE UV 2022 "Vision Meets Algae" Object Detection Challenge
+#  date: 2022
+#- name: <a href="https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E7%8E%8B%E8%8D%A3%E8%83%9C">Baidu PaddlePaddle Developers Experts</a>
+#  date: 2021
+
+service:
+  - name: Reviewer of ACM MM, ACL, EMNLP, NeurIPS, ICLR, AISTATS, ICML
+  - name: PC Member of CIKM
+
+news:
+  - name: Two papers about federated prompt learning and  machine unlearning got accepted by ICML2025. Thanks for the support of my co-authors, and congrats.
+    date: May. 2025
+  - name: One paper about federated graph learning generalization got accepted by SIGIR2025. Congratulations on my co-authors.
+    date: Apr. 2025
+  - name: One paper about multi-modal cross-domain recommendation got accepted by WWW2025. Congratulations on my co-authors.
+    date: Jan. 2025
+  - name: One paper about federated graph modeling got accepted by AAAI2025. Congratulations on my co-authors.
+    date: Dec. 2024
+  - name: One paper about federated sub-graph modeling got accepted by WSDM2025. Congratulations on my co-authors.
+    date: Nov. 2024
+  - name: One paper got accepted by NeurIPS2024.
+    date: Sept. 2024
+
+
+
+# Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
+# if you keep the link to the template so that more people can benefit from it. Thanks!
+footer_text: >-
+  The past cannot be undone, but the future is still within reach.
