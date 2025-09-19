@@ -1,12 +1,11 @@
-primary_name: "Xinting Liao (廖馨婷)"
-secondary_name: "Xenia Liao"
-navbar_name: "Xinting Liao's Home Page"
+primary_name: "Shengxiang Lin (林圣翔)"
+navbar_name: "Shengxiang Lin's Home Page"
 
 positions:
   - '<span class="no-break"><img src="assets/images/badges/zju_logo.png" alt="Zhejiang University" class="inline-badge"/></span> Ph.D, Zhejiang University (2025)'
 
 email: "xintingliao@zju.edu.cn"
-gscholar: FoMerO8AAAAJ
+gscholar: W-rloDsAAAAJ
 sscholar: Xinting-Liao/2215523472
 github: XeniaLLL
 #twitter: RongshengWang
@@ -16,7 +15,7 @@ github: XeniaLLL
 #zhihu: wang-rong-sheng-74
 resume: assets/cv/CV_xinting_liao.pdf
 # linkedin: your-linked-in-id
-orcid: 0000-0002-8257-2381
+orcid: 0009-0006-5550-1488
 
 short_bio: >-
   I am Xinting (Xenia) Liao. I study at Zhejiang University and work under the supervision of Prof. <a href="https://scholar.google.com/citations?user=MY23M60AAAAJ">Xiaolin Zheng</a> and <a href="https://scholar.google.com/citations?user=qZTMyzwAAAAJ">Chaochao Chen</a>. Now I participate in the joint Ph.D. program in National University of Singapore with the supervision of Prof. <a href="https://scholar.google.com.sg/citations?user=Z9DWCBEAAAAJ">Tat-Seng Chua</a> and collaboration with Dr. <a href="https://scholar.google.com.sg/citations?user=Ma5DtmoAAAAJ">Wenjie Wang</a>. My research interests are computer vision, LLM, federated learning, trustworthy machine learning.  <br> <text style="color:#8B0000; font-style:italic;">I am currently seeking a Postdoctoral opportunity or research scientist position.</text>
@@ -27,7 +26,7 @@ short_bio: >-
 show_portrait: true
 portrait_url: assets/images/photos/profile_lxt.jpeg
 portrait_caption: >-
-  我是浙江大学的廖馨婷，欢迎访问我的主页~
+  我是西安交通大学的林圣翔，欢迎访问我的主页~
 
 education:
   - name: Zhejiang University
