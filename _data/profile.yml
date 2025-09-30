@@ -48,9 +48,17 @@ experience:
     date: Sep. 2022 - Jun. 2026
     
 awards:
-- name: Outstanding Award of JingDong Health - Global AI Innovation Competition
-  date: 2024
-
+- name: Second Award, Blue Bridge Cup National Finals C/C++ Programming University Group A
+  date: Jun. 2025
+- name: Silver Award (ranking 44th out of 392 teams), The 2025 ICPC China National Invitational Programming Contest (Nanchang)
+  date: May. 2025
+- name: Glod Award (ranking 13th out of 151 teams), The 2025 ICPC China Shaanxi Provincial Programming Contest
+  date: May. 2025
+- name: Personal Second Prize (ranking in the Top 4%), Group Programming Ladder Tournament (GPLT) National Finals
+  date: Apr. 2025
+- name: Personal Second Prize (ranking in the Top 4%), Group Programming Ladder Tournament (GPLT) National Finals
+  date: Apr. 2024
+  
 service:
   - name: Reviewer of ACM MM, ACL, EMNLP, NeurIPS, ICLR, AISTATS, ICML
   - name: PC Member of CIKM
