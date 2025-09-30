@@ -1,8 +1,8 @@
 primary_name: "Shengxiang Lin (林圣翔)"
-navbar_name: "Shengxiang Lin's Home Page"
+navbar_name: "Shengxiang Lin's HomePage"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/zju_logo.webp" alt="Zhejiang University" class="inline-badge"/></span> Ph.D, Zhejiang University (2025)'
+  - '<span class="no-break"><img src="assets/images/badges/zju_logo.webp" alt="Zhejiang University" class="inline-badge"/></span> Ph.D, Zhejiang University (2026)'
 
 email: "reallinshengxiang@gmail.com"
 gscholar: W-rloDsAAAAJ
@@ -13,7 +13,7 @@ wechat_prompt: >-
   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 qq_qrcode: assets/images/etc/wechat.webp
 qq_prompt: >-
-  Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+  Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my qq. Thanks!
 #zhihu: wang-rong-sheng-74
 #resume: assets/cv/Shengxiang_cv.pdf
 # linkedin: your-linked-in-id
@@ -51,18 +51,15 @@ experience:
     date: Sep. 2022 - Jun. 2026
     
 awards:
-- name: Second Award, Blue Bridge Cup National Finals C/C++ Group A
-  date: Jun. 2025
-- name: Silver Award, The 2025 ICPC China National Invitational Programming Contest
-  date: May. 2025
-- name: Glod Award, The 2025 ICPC China Shaanxi Provincial Programming Contest
-  date: May. 2025
-- name: Personal Second Prize, Group Programming Ladder Tournament National Finals
-  date: Apr. 2025
-- name: Huawei Scholarship
-  date: Dec. 2024
-- name: National Scholarship
-  date: Dec. 2023
+- name: 2025.06, Second Award, Blue Bridge Cup National Finals C/C++ Programming University Group A
+- name: 2025.05, Silver Award (ranking 44th out of 392 teams), The 2025 ICPC China National Invitational Programming Contest (Nanchang)
+- name: 2025.05, Glod Award (ranking 13th out of 151 teams), The 2025 ICPC China Shaanxi Provincial Programming Contest
+- name: 2025.04, Personal Second Prize (ranking in the Top 4%), Group Programming Ladder Tournament (GPLT) National Finals
+- name: 2024.09, First Award, China Undergraduate Mathematical Contest in Modeling (CUMCM) Shaanxi Region
+- name: 2024.12, Huawei Scholarship, Xi’an Jiaotong University & Huawei Technologies Co., Ltd
+- name: 2024.05, Outstanding League members, Xi’an Jiaotong University
+- name: 2023.12, National Scholarship, Ministry of Education of the People’s Republic of China
+
 
 service:
   - name: Member at Berkeley TechFounders’ Technology Department
@@ -73,8 +70,8 @@ service:
     date: Sept. 2023 - present  
 
 news:
-  - name: Two papers about federated prompt learning and  machine unlearning got accepted by ICML2025. Thanks for the support of my co-authors, and congrats.
-    date: May. 2025
+  - name: Nothing has happened
+    date: Sept. 2025
 
 
 
