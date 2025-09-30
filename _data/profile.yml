@@ -20,9 +20,11 @@ qq_prompt: >-
 orcid: 0009-0006-5550-1488
 
 short_bio: >-
-  I am Shengxiang Lin.
+  Hi, I am **Shengxiang Lin**, undergraduate student of Qian Xuesen Honor College / Department of Electronics and Information Science, Zhongying College Computer Experimental Class 2201 ( expected graduation in July 2026 ).      
+  My research interests primarily focus on **Artificial Intelligence**.
+  <span style="color: red; font-style: italic;">Feel free to contact me if you are interested in discussing or collaborating with me.</span>  
 
-#  <br> I publish a lot of open source projects on <a href="https://github.com/WangRongsheng">🔗Github</a> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/wangrongsheng?style=flat-square">.
+  <br> I publish a lot of open source projects on <a href="https://github.com/Shengxiang-Lin">🔗Github</a> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Shengxiang-Lin?style=flat-square">.
 #  I shared some of the datasets and model weights used by the project at <a href="https://huggingface.co/wangrongsheng">🔗HuggingFace</a>. I likewise like to post some small-parameter LM at <a href="https://ollama.com/wangrongsheng">🔗Ollama</a> to help people use it locally.
 
 show_portrait: true
