@@ -11,6 +11,9 @@ github: Shengxiang-Lin
 wechat_qrcode: assets/images/etc/wechat.webp
 wechat_prompt: >-
   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+qq_qrcode: assets/images/etc/wechat.webp
+qq_prompt: >-
+  Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 #zhihu: wang-rong-sheng-74
 #resume: assets/cv/Shengxiang_cv.pdf
 # linkedin: your-linked-in-id
