@@ -2,7 +2,7 @@ primary_name: "Shengxiang Lin (林圣翔)"
 navbar_name: "Shengxiang Lin's Home Page"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/zju_logo.png" alt="Zhejiang University" class="inline-badge"/></span> Ph.D, Zhejiang University (2025)'
+  - '<span class="no-break"><img src="assets/images/badges/zju_logo.webp" alt="Zhejiang University" class="inline-badge"/></span> Ph.D, Zhejiang University (2025)'
 
 email: "reallinshengxiang@gmail.com"
 gscholar: W-rloDsAAAAJ
@@ -43,35 +43,14 @@ education:
     date: Sep. 2022 - Jun. 2026
 
 experience:
-  - name: NExT++ Lab in National University of Singapore
-    logo: assets/images/badges/nus_logo.png
-    position: Visiting student
-    date: Jun. 2024 - Present
-  - name: Text Intelligence Lab in Westlake University
-    logo: assets/images/badges/westlake_logo.png
-    position: Visiting student
-    date: Oct. 2019 - May. 2020
-  - name: Medical Image Lab in Sichuan University
-    logo: assets/images/badges/scu_logo.png
-    position: Research intern
-    date: Mar. 2018 -	Jun. 2019
-
-
-#awards:
-#- name: Outstanding Award of JingDong Health - Global AI Innovation Competition
-#  date: 2024
-#- name: First Prize of Baidu PaddlePaddle AGI Hackathon
-#  date: 2024
-#- name: Third Prize of Digital Medical Technology and Application Innovation Competition
-#  date: 2023
-#- name: Third Prize of Baichuan Intelligence and Amazon Cloud AGI Hackathon
-#  date: 2023
-#- name: Silver of Kaggle RSNA Screening Mammography Breast Cancer Detection
-#  date: 2023
-#- name: Outstanding Award of IEEE UV 2022 "Vision Meets Algae" Object Detection Challenge
-#  date: 2022
-#- name: <a href="https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E7%8E%8B%E8%8D%A3%E8%83%9C">Baidu PaddlePaddle Developers Experts</a>
-#  date: 2021
+  - name: Xi'an Jiaotong University
+    logo: 
+    position: B.S. in Computer Science and Engineering
+    date: Sep. 2022 - Jun. 2026
+    
+awards:
+- name: Outstanding Award of JingDong Health - Global AI Innovation Competition
+  date: 2024
 
 service:
   - name: Reviewer of ACM MM, ACL, EMNLP, NeurIPS, ICLR, AISTATS, ICML
