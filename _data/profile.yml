@@ -60,8 +60,12 @@ awards:
   date: Apr. 2024
 
 service:
-  - name: Reviewer of ACM MM, ACL, EMNLP, NeurIPS, ICLR, AISTATS, ICML
-  - name: PC Member of CIKM
+  - name: Member at Berkeley TechFounders’ Technology Department
+    date: Aug. 2024 - Dec. 2024
+  - name: Student Member at China Computer Federation (CCF)
+    date: Jun. 2024 - present
+  - name: Minister & Co-Founder at XJTU Computer Science and Technology Experimental Class-Mentor-Group
+    date: Sept. 2023 - present  
 
 news:
   - name: Two papers about federated prompt learning and  machine unlearning got accepted by ICML2025. Thanks for the support of my co-authors, and congrats.
