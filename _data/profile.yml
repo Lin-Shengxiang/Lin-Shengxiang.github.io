@@ -44,7 +44,7 @@ education:
 
 experience:
   - name: Xi'an Jiaotong University
-    logo: 
+    logo: assets/images/badges/xjtu_logo.webp
     position: B.S. in Computer Science and Engineering
     date: Sep. 2022 - Jun. 2026
     
@@ -59,16 +59,6 @@ service:
 news:
   - name: Two papers about federated prompt learning and  machine unlearning got accepted by ICML2025. Thanks for the support of my co-authors, and congrats.
     date: May. 2025
-  - name: One paper about federated graph learning generalization got accepted by SIGIR2025. Congratulations on my co-authors.
-    date: Apr. 2025
-  - name: One paper about multi-modal cross-domain recommendation got accepted by WWW2025. Congratulations on my co-authors.
-    date: Jan. 2025
-  - name: One paper about federated graph modeling got accepted by AAAI2025. Congratulations on my co-authors.
-    date: Dec. 2024
-  - name: One paper about federated sub-graph modeling got accepted by WSDM2025. Congratulations on my co-authors.
-    date: Nov. 2024
-  - name: One paper got accepted by NeurIPS2024.
-    date: Sept. 2024
 
 
 
