@@ -30,11 +30,15 @@ portrait_caption: >-
 
 education:
   - name: Zhejiang University
-    logo: assets/images/badges/zju_logo.png
+    logo: assets/images/badges/zju_logo.webp
     position: Ph.D. in Computer Science
     date: Sep. 2026 - Jun. 2031
+  - name: University of California, Berkeley
+    logo: assets/images/badges/ucb.webp
+    position: UCBX Concurrent International
+    date: Aug. 2024 - Dec. 2024
   - name: Xi'an Jiaotong University
-    logo: assets/images/badges/xjtu_logo.png
+    logo: assets/images/badges/xjtu_logo.webp
     position: B.S. in Computer Science and Engineering
     date: Sep. 2022 - Jun. 2026
 
