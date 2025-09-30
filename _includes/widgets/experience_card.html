@@ -77,9 +77,16 @@
                         <div class="mx-2 my-1">
                             <h6>Honors & Awards</h6>
                             <ul class="list small pl-3 mb-1">
-                                {% for item in site.data.profile.awards %}
-                                <li>{{ item.name }} <em class="float-right">{{ item.date }}</em></li>
-                                {% endfor %}
+                                <div class="row">
+                                    {% for item in site.data.profile.awards %}
+                                    <div class="col-md-12"> <!-- 每行一个元素 -->
+                                        <li> <!-- 使用flex布局让date和name在一行 -->
+                                            <strong class="mr-1">{{item.date}}.</strong> <!-- 加粗日期 -->
+                                            <em>{{ item.name }}</em>
+                                        </li>
+                                    </div>
+                                    {% endfor %}
+                                </div>
                             </ul>
                         </div>
                     </div>
