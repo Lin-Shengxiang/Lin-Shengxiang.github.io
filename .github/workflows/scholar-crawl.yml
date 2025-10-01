@@ -1,0 +1,38 @@
+name: Google Scholar Crawler
+
+on:
+  schedule:
+    # 每隔12小时运行一次（UTC时间）
+    - cron: '0 */12 * * *'
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'  # 选择合适的Python版本
+          
+      - name: Install dependencies
+        run: |
+          cd google_scholar_crawler
+          pip install -r requirements.txt
+          
+      - name: Run crawler
+        run: |
+          cd google_scholar_crawler
+          python main.py
+          
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add assets/results/gs_data.json assets/results/gs_data_shieldsio.json
+          git commit -m "Update Google Scholar data $(date -u +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git push
