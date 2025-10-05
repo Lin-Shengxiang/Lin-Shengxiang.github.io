@@ -45,11 +45,11 @@ education:
     position: B.S. in Computer Science and Engineering (Qian Xuesen Honor Class), Faculty of Electronic and Information Engineering
     date: 2022.09 - 2026.06
 
-#experience:
-#  - name: ITSTP
-#    logo: assets/images/badges/xjtu_logo.webp
-#    position: Research Internship
-#    date: 2024.07 - 2024.09
+experience:
+  - name: Innovative Talents Science Training Program
+    logo: assets/images/badges/itstp_logo.webp
+    position: Research Internship
+    date: 2024.07 - 2024.09
     
 service:
   - name: Member at Berkeley TechFounders’ Technology Department
