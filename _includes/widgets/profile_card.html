@@ -3,20 +3,7 @@
         <div class="card border-0 shadow-sm bg-white">
             <div class="card-body p-5">
                 <div class="row">
-                    <div class="col">
-                        <p class="h1 font-weight-normal">{{ site.data.profile.primary_name }} <small>{{ site.data.profile.secondary_name }}</small></p>
-                        <p class="text-profile-position">
-                            {% for position in site.data.profile.positions %}
-                            {{ position }}<br/>
-                            {% endfor %}
-                            {% if site.data.profile.cv_link %}
-                            <a target="_blank" href="{{ site.data.profile.cv_link }}"><i class="fas fa-file-alt"></i> [Curriculum Vitae]</a> <br/>
-                            {% endif %}
-                        </p>
-                        <p class="text-profile-bio">
-                            {{ site.data.profile.short_bio }}
-                        </p>
-                    </div>
+                    <!-- 将照片列移到左侧 -->
                     {% if site.data.profile.show_portrait %}
                     <div class="col-md-auto d-none d-md-block">
                         <figure class="figure">
@@ -32,7 +19,22 @@
                         </figure>
                     </div>
                     {% endif %}
-        
+                    
+                    <!-- 文本内容移到右侧 -->
+                    <div class="col">
+                        <p class="h1 font-weight-normal">{{ site.data.profile.primary_name }} <small>{{ site.data.profile.secondary_name }}</small></p>
+                        <p class="text-profile-position">
+                            {% for position in site.data.profile.positions %}
+                            {{ position }}<br/>
+                            {% endfor %}
+                            {% if site.data.profile.cv_link %}
+                            <a target="_blank" href="{{ site.data.profile.cv_link }}"><i class="fas fa-file-alt"></i> [Curriculum Vitae]</a> <br/>
+                            {% endif %}
+                        </p>
+                        <p class="text-profile-bio">
+                            {{ site.data.profile.short_bio }}
+                        </p>
+                    </div>
                 </div>
                 <hr />
                 <div class="row">
