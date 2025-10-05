@@ -34,7 +34,7 @@ portrait_caption: >-
 education:
   - name: Zhejiang University
     logo: assets/images/badges/zju_logo.webp
-    position: Ph.D. in Artificial Intelligence
+    position: Ph.D. in Artificial Intelligence, College of Computer Science and Technology
     date: 2026.09 - 2031.06
   - name: University of California, Berkeley
     logo: assets/images/badges/ucb_logo.webp
@@ -42,14 +42,14 @@ education:
     date: 2024.08 - 2024.12
   - name: Xi'an Jiaotong University
     logo: assets/images/badges/xjtu_logo.webp
-    position: B.S. in Computer Science and Engineering (Qian Xuesen Honor Class)
+    position: B.S. in Computer Science and Engineering (Qian Xuesen Honor Class), Faculty of Electronic and Information Engineering
     date: 2022.09 - 2026.06
 
-experience:
-  - name: ITSTP
-    logo: assets/images/badges/xjtu_logo.webp
-    position: Research Internship
-    date: 2024.07 - 2024.09
+#experience:
+#  - name: ITSTP
+#    logo: assets/images/badges/xjtu_logo.webp
+#    position: Research Internship
+#    date: 2024.07 - 2024.09
     
 service:
   - name: Member at Berkeley TechFounders’ Technology Department
