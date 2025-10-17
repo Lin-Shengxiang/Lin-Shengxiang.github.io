@@ -63,6 +63,7 @@ service:
 awards:
 - name: Second Award, Blue Bridge Cup National Software and Information Technology Professional Talent Competition National Finals, C/C++ Programming University Group A
   date: 2025.06
+  url: "https://shengxiang-lin.github.io/cv/Second%20Award%2C%20Blue%20Bridge%20Cup%20National%20Finals%20C%2B%2B%20Programming%20University%20Group%20A.pdf"
 - name: Silver Award (ranking 44th out of 392 teams), The 2025 ICPC China National Invitational Programming Contest (Nanchang)
   date: 2025.05
 - name: Glod Award (ranking 13th out of 151 teams), The 2025 ICPC China Shaanxi Provincial Programming Contest
@@ -87,6 +88,7 @@ awards:
   date: 2023.12 
 - name: Silver Award, The 2022 ICPC Asia Xi’an Regional Contest
   date: 2023.05 
+
 
 news:
   - name: Nothing has happened
