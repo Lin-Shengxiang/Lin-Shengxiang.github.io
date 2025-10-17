@@ -45,13 +45,17 @@
                             <ul class="list-unstyled mb-1">
                                 {% for item in site.data.profile.experience %}
                                 <li class="media mb-1">
-                                    <img src="{{ item.logo }}" alt="{{ item.name }}" style="width: 18px;"
-                                         class="mr-1 mt-1">
+                                    {% if item.url %}
+                                        <a href="{{ item.url }}" target="_blank" style="text-decoration: none;">
+                                            <img src="{{ item.logo }}" alt="{{ item.name }}" style="width: 18px;" class="mr-1 mt-1">
+                                        </a>
+                                    {% else %}
+                                        <img src="{{ item.logo }}" alt="{{ item.name }}" style="width: 18px;" class="mr-1 mt-1">
+                                    {% endif %}
                                     <div class="media-body">
                                         <p class="my-0">{{ item.name }}</p>
                                         <p class="small my-0">{{ item.dept }}</p>
-                                        <p class="small my-0">{{ item.position }} <em class="float-right">{{ item.date
-                                            }}</em></p>
+                                        <p class="small my-0">{{ item.position }} <em class="float-right">{{ item.date }}</em></p>
                                     </div>
                                 </li>
                                 {% endfor %}
