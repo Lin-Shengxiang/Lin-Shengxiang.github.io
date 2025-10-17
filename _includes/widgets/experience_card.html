@@ -98,14 +98,20 @@
                     {% if site.data.profile.awards %}
                     <div class="col-md-12">
                         <div class="mx-2 my-1">
-                            <h6>Honors & Awards</h6>
+                            <h6>News</h6>
                             <ul class="list small pl-3 mb-1">
                                 <div class="row">
                                     {% for item in site.data.profile.awards %}
-                                    <div class="col-md-6"> <!-- 每行一个元素 -->
-                                        <li> <!-- 使用flex布局让date和name在一行 -->
-                                            <strong class="mr-1">{{item.date}}.</strong> <!-- 加粗日期 -->
-                                            <em>{{ item.name }}</em>
+                                    <div class="col-md-6">
+                                        <li>
+                                            <strong class="mr-1">{{item.date}}.</strong>
+                                            {% if item.url %}
+                                                <a href="{{ item.url }}" target="_blank" class="text-dark text-decoration-none">
+                                                    <em>{{ item.name }}</em>
+                                                </a>
+                                            {% else %}
+                                                <em>{{ item.name }}</em>
+                                            {% endif %}
                                         </li>
                                     </div>
                                     {% endfor %}
