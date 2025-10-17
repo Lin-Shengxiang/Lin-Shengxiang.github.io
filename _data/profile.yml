@@ -34,14 +34,17 @@ portrait_caption: >-
 education:
   - name: Zhejiang University
     logo: assets/images/badges/zju_logo.webp
+    url: "https://www.zju.edu.cn/"
     position: Ph.D. in Artificial Intelligence, College of Computer Science and Technology
     date: 2026.09 - 2031.06
   - name: University of California, Berkeley
     logo: assets/images/badges/ucb_logo.webp
+    url: "https://www.berkeley.edu/"
     position: Visiting Student, UCBX Concurrent International
     date: 2024.08 - 2024.12
   - name: Xi'an Jiaotong University
     logo: assets/images/badges/xjtu_logo.webp
+    url: "https://www.xjtu.edu.cn/"
     position: B.S. in Computer Science and Technology (Qian Xuesen Honor Class), Faculty of Electronic and Information Engineering
     date: 2022.09 - 2026.06
 
