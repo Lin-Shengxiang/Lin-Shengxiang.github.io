@@ -19,5 +19,5 @@ links:
   Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Liao_Rethinking_the_Representation_in_Federated_Unsupervised_Learning_with_Non-IID_Data_CVPR_2024_paper.html
 #  Poster: assets/images/poster/icml2024-ws.jpeg
   Cite: assets/bibtex/liao2024rethinking.bib
-  Code: https://github.com/XeniaLLL/FedU2
+  Code: https://github.com/Shengxiang-Lin/Lightweight-Deep-Learning-Framework-for-Accurate-Particle-Flow
 ---
