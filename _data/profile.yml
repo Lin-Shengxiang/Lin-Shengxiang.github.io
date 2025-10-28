@@ -27,7 +27,7 @@ short_bio: >-
 #  I shared some of the datasets and model weights used by the project at <a href="https://huggingface.co/wangrongsheng">🔗HuggingFace</a>. I likewise like to post some small-parameter LM at <a href="https://ollama.com/wangrongsheng">🔗Ollama</a> to help people use it locally.
 
 show_portrait: true
-portrait_url: assets/images/photos/profile_lsx0.jpg
+portrait_url: assets/images/photos/profile_lsx0.png
 portrait_caption: >-
   I'm Lin Shengxiang. Welcome to my homepage!
 
