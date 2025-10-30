@@ -32,6 +32,12 @@
                                     <i class="fa fa-book"></i> Semantic Scholar
                                 </a>
                                 {% endif %}
+
+                                {% if site.data.profile.openreview %}
+                                <a class="pr-3 no-break" target="_blank" href="https://openreview.net/profile?id={{ site.data.profile.openreview }}">
+                                    <i class="fas fa-comments"></i> OpenReview
+                                </a>
+                                {% endif %}
                                 
                                 {% if site.data.profile.github %}
                                 <a class="pr-3 no-break" target="_blank" href="https://github.com/{{ site.data.profile.github }}">
