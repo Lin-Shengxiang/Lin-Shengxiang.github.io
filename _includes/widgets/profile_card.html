@@ -45,6 +45,12 @@
                                 </a> 
                                 {% endif %}
                                 
+                                {% if site.data.profile.orcid %}
+                                <a class="pr-3 no-break" target="_blank" href="https://orcid.org/{{ site.data.profile.orcid }}">
+                                    <i class="fab fa-orcid"></i> ORCID
+                                </a>
+                                {% endif %}
+                                
                                 {% if site.data.profile.instagram %}
                                 <a class="pr-3 no-break" target="_blank" href="https://www.instagram.com/{{ site.data.profile.instagram }}">
                                     <i class="fab fa-instagram"></i> Instagram
@@ -87,11 +93,6 @@
                                 </a>
                                 {% endif %}
 
-                                {% if site.data.profile.orcid %}
-                                <a class="pr-3 no-break" target="_blank" href="https://orcid.org/{{ site.data.profile.orcid }}">
-                                    <i class="fab fa-orcid"></i> ORCID
-                                </a>
-                                {% endif %}
                             </div>
                         </div>
                     </div>
