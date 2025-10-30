@@ -44,7 +44,13 @@
                                     <i class="fab fa-github"></i> GitHub
                                 </a> 
                                 {% endif %}
-
+                                
+                                {% if site.data.profile.instagram %}
+                                <a class="pr-3 no-break" target="_blank" href="https://www.instagram.com/{{ site.data.profile.instagram }}">
+                                    <i class="fab fa-instagram"></i> Instagram
+                                </a>
+                                {% endif %}
+                                
                                 {% if site.data.profile.qq_qrcode %}
                                 <a class="pr-3 no-break" data-toggle="modal" data-target="#modal-qq">
                                     <i class="fab fa-qq"></i> QQ
