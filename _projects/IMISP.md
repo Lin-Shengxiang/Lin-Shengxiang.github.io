@@ -3,7 +3,7 @@ layout: project
 title: "Integrated Management and Intelligent Service Platform for Book Sales"
 date: 2025-06-24
 featured: true
-image: "/assets/images/projects/QAQ.png"
+image: "/assets/images/projects/IMISP.png"
 period: "2025.05 - 2025.06"
 role: "Lead Developer"
 description: "Implement a Douban book data scraping module to collect over 100,000+ book entries and 200,000+ user records,
