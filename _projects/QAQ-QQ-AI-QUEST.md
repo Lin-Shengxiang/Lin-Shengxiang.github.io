@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "QAQ:QQ AI QUEST"
-date: 2025-06
+date: 2025-06-15
 featured: true
 image: "/assets/images/projects/QAQ.png"
 period: "2025.03 - 2025.06"
