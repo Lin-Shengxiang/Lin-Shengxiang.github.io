@@ -1,21 +1,17 @@
 ---
 layout: project
-title: "AI-Powered Image Recognition System"
-date: 2023-06-15
+title: "QAQ:QQ AI QUEST"
+date: 2025-06
 featured: true
-image: "/assets/images/poster/CICAI2023-poster.jpg"
-period: "2023 - Present"
+image: "/assets/images/projects/QAQ.png"
+period: "2025.03 - 2025.06"
 role: "Lead Developer"
-description: "Developed a deep learning system for real-time image classification with 95% accuracy using convolutional neural networks and transfer learning techniques."
+description: "Develop an intelligent chatbot system in Rust language, builds a secure and stable server to store user information and chat records, and provides intelligent chatting experience for users."
 technologies: 
-  - "Python"
-  - "TensorFlow"
-  - "OpenCV"
+  - "Rust"
   - "Flask"
-  - "Docker"
 links:
-  GitHub: "https://github.com/username/project1"
-  Demo: "https://demo.example.com"
+  Code: "https://github.com/Shengxiang-Lin/QAQ-QQ-AI-QUEST"
   Documentation: 
     url: "/projects/ai-system-docs"
     target: "_self"
