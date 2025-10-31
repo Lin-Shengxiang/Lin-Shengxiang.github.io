@@ -12,4 +12,5 @@ technologies:
   - "Unity2D"
 links:
   Code: "https://github.com/Shengxiang-Lin/Paranormal-XJTU" 
+  Play: "https://github.com/Shengxiang-Lin/Paranormal-XJTU/releases/tag/Paranormal-XJTU" 
 ---
