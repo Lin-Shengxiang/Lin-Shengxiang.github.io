@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "QAQ:QQ AI QUEST"
+title: "Tencent QQ Intelligent Dialogue System"
 date: 2025-06-15
 featured: true
 image: "/assets/images/projects/QAQ.png"
