@@ -6,7 +6,10 @@ featured: true
 image: "/assets/images/projects/QAQ.png"
 period: "2025.03 - 2025.06"
 role: "Lead Developer"
-description: "Develop an intelligent chatbot system in Rust language, builds a secure and stable server to store user information and chat records, and provides intelligent chatting experience for users."
+description: "Engineered a Rust-based high-concurrency intelligent dialogue system
+with secure distributed architecture. Designed RESTful APIs for LLM integration, connected multimodal LLMs
+(Deepseek, Doubao) via LLOneBot middleware, and developed core modules (request routing, state management)
+enabling end-to-end chatbot deployment."
 technologies: 
   - "Rust"
   - "Flask"
