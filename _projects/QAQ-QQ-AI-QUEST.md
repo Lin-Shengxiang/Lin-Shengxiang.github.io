@@ -11,8 +11,6 @@ technologies:
   - "Rust"
   - "Flask"
 links:
-  Code: "https://github.com/Shengxiang-Lin/QAQ-QQ-AI-QUEST"
-  Documentation: 
-    License: "/projects/QAQ-QQ-AI-QUEST-LICENSE.txt"
-    target: "_self"
+  Code: "https://github.com/Shengxiang-Lin/QAQ-QQ-AI-QUEST" 
+  License: QAQ-QQ-AI-QUEST-LICENSE.txt
 ---
