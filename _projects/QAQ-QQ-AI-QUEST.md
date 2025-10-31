@@ -13,6 +13,6 @@ technologies:
 links:
   Code: "https://github.com/Shengxiang-Lin/QAQ-QQ-AI-QUEST"
   Documentation: 
-    url: "/projects/ai-system-docs"
+    License: "/projects/QAQ-QQ-AI-QUEST-LICENSE.txt"
     target: "_self"
 ---
