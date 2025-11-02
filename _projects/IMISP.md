@@ -12,9 +12,6 @@ storing this data in a PostgreSQL relational database engineered to 3NF. The sys
 that integrates Deepseek-V3’s large model API and employs a hybrid recommendation algorithm. The functionality
 includes the admin panel for book CRUD operations and inventory dashboards, plus the User Portal with
 categorized search, shopping cart transactions, hybrid algorithm-powered recommendations, and AI-driven Q&A."
-technologies: 
-  - "Python"
-  - "Flask"
 links:
   Code: "https://github.com/Shengxiang-Lin/Integrated-Management-and-Intelligent-Service-Platform-for-Book-Sales" 
   License: /projects/IMISP-LICENSE.txt
