@@ -11,4 +11,5 @@ description: "Based on XJTU's century-old history, this project transforms histo
 links:
   Code: "https://github.com/Shengxiang-Lin/Paranormal-XJTU" 
   Play: "https://github.com/Shengxiang-Lin/Paranormal-XJTU/releases/tag/Paranormal-XJTU" 
+  License: /projects/Paranormal-XJTU-LICENSE.txt
 ---
