@@ -70,6 +70,10 @@ service:
     
 
 awards:
+- name: Outstanding students, Xi’an Jiaotong University
+  date: 2025.12 
+- name: National Scholarship, Ministry of Education of the People’s Republic of China
+  date: 2025.12 
 - name: Second Award, Blue Bridge Cup National Software and Information Technology Professional Talent Competition National Finals, C/C++ Programming University Group A
   date: 2025.06
   url: "https://shengxiang-lin.github.io/cv/Second%20Award%2C%20Blue%20Bridge%20Cup%20National%20Finals%20C%2B%2B%20Programming%20University%20Group%20A.pdf"
