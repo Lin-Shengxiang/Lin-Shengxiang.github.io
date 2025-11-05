@@ -59,3 +59,21 @@ img.lazy {
     font-family: Courier, monospace;
 }
 
+/* 新增：黑色文本类（可复用在任何需要黑色文字的元素，包括链接） */
+.text-black {
+  color: #000 !important; /* 强制纯黑色，!important 确保覆盖浏览器默认或其他低优先级样式 */
+}
+
+/* 新增：针对链接应用 .text-black 时，覆盖默认链接状态色（未访问/已访问/悬停/激活） */
+a.text-black:link,  /* 未访问链接 */
+a.text-black:visited /* 已访问链接 */ {
+  color: #000;
+  text-decoration: none; /* 直接在CSS中处理“移除下划线”，无需在HTML写内联样式 */
+}
+
+/* 可选：链接悬停/激活时的样式（提升用户体验，避免 hover 时无反馈） */
+a.text-black:hover,  /* 鼠标悬停 */
+a.text-black:active /* 点击瞬间 */ {
+  color: #333; /* 悬停时稍变深灰（可选，也可保持 #000） */
+  text-decoration: none; /* 确保 hover 时仍无下划线 */
+}
