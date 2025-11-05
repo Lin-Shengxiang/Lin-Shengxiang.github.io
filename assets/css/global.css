@@ -70,6 +70,6 @@ a.text-black:visited{
 }
 a.text-black:hover,
 a.text-black:active{
-  color: #333;
+  color: #000;
   text-decoration: none;
 }
