@@ -61,12 +61,12 @@ experience:
     date: 2024.07 - 2024.09
     
 service:
-  - name: Member at Berkeley TechFounders’ Technology Department: 2024
-    date: #2024.08 - 2024.12
-  - name: Student Member at China Computer Federation: 2024,2025
-    date: #2024.06 - present
-  - name: Minister & Co-Founder at XJTU Computer Science and Technology Experimental Class-Mentor-Group: 2023,2024,2025,2026
-    date: #2023.09 - 2026.06  
+  - name: "Member at Berkeley TechFounders’ Technology Department: 2024"
+   # date: #2024.08 - 2024.12
+  - name: "Student Member at China Computer Federation: 2024,2025"
+   # date: 2024.06 - present
+  - name: "Minister & Co-Founder at XJTU Computer Science and Technology Experimental Class-Mentor-Group: 2023,2024,2025,2026"
+   # date: 2023.09 - 2026.06  
     
 
 awards:
