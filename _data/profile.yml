@@ -7,7 +7,7 @@ positions:
   - Xingqing Campus, 28 Xianning West Road, Xi'an City, Shaanxi Province
 email: "reallinshengxiang@gmail.com"
 gscholar: W-rloDsAAAAJ
-sscholar: Shengxiang-Lin/2325483397
+#sscholar: Shengxiang-Lin/2325483397
 openreview: ~Shengxiang_Lin1
 github: Shengxiang-Lin
 instagram: real_linshengxiang
@@ -61,12 +61,12 @@ experience:
     date: 2024.07 - 2024.09
     
 service:
-  - name: Member at Berkeley TechFounders’ Technology Department
-    date: 2024.08 - 2024.12
-  - name: Student Member at China Computer Federation
-    date: 2024.06 - present
-  - name: Minister & Co-Founder at XJTU Computer Science and Technology Experimental Class-Mentor-Group
-    date: 2023.09 - 2026.06  
+  - name: Member at Berkeley TechFounders’ Technology Department, 2024
+    date: #2024.08 - 2024.12
+  - name: Student Member at China Computer Federation, 2024、2025
+    date: #2024.06 - present
+  - name: Minister & Co-Founder at XJTU Computer Science and Technology Experimental Class-Mentor-Group, 2023、2024、2025、2026
+    date: #2023.09 - 2026.06  
     
 
 awards:
