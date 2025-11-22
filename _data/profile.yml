@@ -3,8 +3,8 @@ secondary_name: "林圣翔"
 navbar_name: "Shengxiang Lin's Homepage"
 positions:
   - '<span class="no-break"><img src="assets/images/badges/zju_logo.webp" alt="Zhejiang University" class="inline-badge"/></span> Ph.D Student, Zhejiang University (2026)'
-  - "🧑‍🔬 Artificial Intelligence Academic Researcher"
-  - 📍 Xingqing Campus, 28 Xianning West Road, Xi'an City, Shaanxi Province
+  - <i class="fas fa-user-graduate"></i> Artificial Intelligence Academic Researcher
+  - <i class="fas fa-map-marker-alt"></i> Xingqing Campus, 28 Xianning West Road, Xi'an City, Shaanxi Province
 email: "reallinshengxiang@gmail.com"
 gscholar: W-rloDsAAAAJ
 #sscholar: Shengxiang-Lin/2325483397
