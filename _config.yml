@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Shengxiang Lin(林圣翔)"
 description              : "Student of Xi'an Jiaotong University"
-repository               : "Shengxiang-Lin/Shengxiang-Lin.github.io"
+repository               : "Lin-Shengxiang/Lin-Shengxiang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -30,7 +30,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=W-rloDsAAAAJ&view_op=list_works&gmla=AL3_zihh3Zn_bi0dVIvG5yMSywbxXPgAefgpQazyw2Uiq7F35DZbJgvfIedhIzuCwpYYLUt-ic66keUlysQEJTeu8_pE-Rm-s7ktSpN1V9H5W272UFblXNmYQFpwzrSmZG39I3RfsTEOIkQ"
   email            : "reallinshengxiang@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://shengxiang-lin.super.site/"
+  uri              : "https://shengxiang-lin.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
